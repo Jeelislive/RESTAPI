@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Smartphone",
+		"description": "A high-performance smartphone with advanced features.",
+		"price": 599.99,
+		"category": "Electronics",
+		"stock_quantity": 100,
+		"image_url": "https://example.com/smartphone.jpg"
+	},
+	{
+		"name": "Laptop",
+		"description": "Powerful laptop for work and entertainment.",
+		"price": 1299.99,
+		"category": "Electronics",
+		"stock_quantity": 50,
+		"image_url": "https://example.com/laptop.jpg"
+	},
+	{
+		"name": "Running Shoes",
+		"description": "Comfortable running shoes for athletes.",
+		"price": 79.99,
+		"category": "Sports",
+		"stock_quantity": 200,
+		"image_url": "https://example.com/running_shoes.jpg"
+	},
+	{
+		"name": "Wireless Earbuds",
+		"description": "High-quality wireless earbuds with noise cancellation.",
+		"price": 149.99,
+		"category": "Electronics",
+		"stock_quantity": 150,
+		"image_url": "https://example.com/wireless_earbuds.jpg"
+	}
+]
